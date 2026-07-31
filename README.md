@@ -6,3 +6,4 @@ A collection of embedded automation projects built with MicroPython on ESP32.
 |---------|-------------|
 | [01 - Buzzer Alarm](01-buzzer-alarm/) | Alarm with snooze button |
 | [02 - Smart Room Controller](02-smart-room-controller/) | WiFi-based room controller with web dashboard |
+| [03 - Device Information Dashboard](03-device-information-dashboard/) | Displays live information from the ESP32 |
