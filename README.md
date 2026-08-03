@@ -8,4 +8,4 @@ A collection of embedded automation projects built with MicroPython on ESP32.
 | [02 - Smart Room Controller](02-smart-room-controller/) | WiFi-based room controller with web dashboard |
 | [03 - Device Information Dashboard](03-device-information-dashboard/) | Displays live information from the ESP32 |
 | [04 - Wifi Scanner](04-wifi-scanner/) | Scans all nearby Wi-Fi networks and displays them in a web page |
-
+| [05 - Weather Dashboard](05-weather-dashboard/) | Live weather dashboard using ESP32, MicroPython and OpenWeather API |
