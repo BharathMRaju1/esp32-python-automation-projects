@@ -39,3 +39,32 @@ The ESP32 connects to Wi-Fi, fetches live weather data from the OpenWeather API,
 ---
 
 ## Project Structure
+
+- main.py
+- wifi.py
+- weather.py
+- dashboard.py
+- secrets.py
+
+---
+
+## Screenshot
+
+![Dashboard](images/dashboard.png)
+
+---
+
+## Future Improvements
+
+- OLED Display Support
+- Weather Graphs
+- 5-Day Forecast
+- Weather Alerts
+- Sensor Integration
+- Dark/Light Theme
+
+---
+
+## Author
+
+Bharath M
